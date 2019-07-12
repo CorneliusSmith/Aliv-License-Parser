@@ -188,7 +188,7 @@ function timePicker($line){
         //DST is at the end of the array which would be array
         //length - 1. So time is always infront of DST.
         $arr = explode(" ",$line);
-        $time = $arr[count($arr)-2];
+        $time = $arr[count($arr)-3].','.$arr[count($arr)-2];
         //dumps the array from memory as general house keeping
         //then returns the time.
         $arr = NULL;
