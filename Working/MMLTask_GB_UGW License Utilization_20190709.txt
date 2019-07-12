@@ -1,0 +1,37 @@
+[GB-UGW-01-om-view]display license usage
+The current usage of license resource control item
+--------------------------------------------------
+
+                                                                                      Product Type  =  GGSN+PGW+SGW
+                                                                      GGSN Basic Software(per PDP)  =  3922
+                                                                      S-GW Basic Software(per PDP)  =  35899
+                                                                      P-GW Basic Software(per PDP)  =  37815
+                                                                   HSDPA, 2Mbit/s-4Mbit/s(per PDP)  =  0
+                                                       HSDPA Expansion 1, 4Mbit/s-8Mbit/s(per PDP)  =  235
+                                                      HSDPA Expansion 2, 8Mbit/s-16Mbit/s(per PDP)  =  339
+                                                     HSDPA Expansion 3, 16Mbit/s-32Mbit/s(per PDP)  =  3315
+                                                     HSDPA Expansion 4, 32Mbit/s-48Mbit/s(per PDP)  =  12
+                                                                   HSUPA, 2Mbit/s-4Mbit/s(per PDP)  =  0
+                                                       HSUPA Expansion 1, 4Mbit/s-8Mbit/s(per PDP)  =  2281
+                                                      HSUPA Expansion 2, 8Mbit/s-12Mbit/s(per PDP)  =  0
+                                                     HSUPA Expansion 3, 12Mbit/s-24Mbit/s(per PDP)  =  1613
+                                                                       PCC Basic Function(per PDP)  =  41240
+                                                             Basic Content Based Charging(per PDP)  =  41739
+                                                             Gy Interface Online Charging(per PDP)  =  35142
+                                                                  IPv6 PDP/Bearer Context(per PDP)  =  0
+                                                                     IPv6 Online Charging(per PDP)  =  0
+                                                                 IPv4v6 Dual Stack Access(per PDP)  =  0
+                                                                               IMS Access(per PDP)  =  6551
+                                                                            Direct Tunnel(per PDP)  =  2882
+                                                                  DHCP Address Allocation(per PDP)  =  0
+                                        Network Initiated Dedicated Bearer/PDP Activation(per PDP)  =  310
+                                                                     VoLTE Emergency Call(per PDP)  =  0
+                                                                      VIP Access Priority(per PDP)  =  0
+                                          Supporting UE Category 2/3/4 Access, 150 Mbit/s(per PDP)  =  829
+                                              Supporting UE Category 6 Access, 300 Mbit/s(per PDP)  =  30394
+                                                                        UGW Throughput(per Mbit/s)  =  3221
+                                                                  Multiple Trusted HPLMN(per PLMN)  =  2
+                                                                                 SA-Basic(per PDP)  =  21381
+
+-----------------------------
+2019-07-08 17:08:31-04:00 DST

@@ -1,0 +1,240 @@
+
+++++++ File Name: MMLTask_CG License Utilization_20190701_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	GB-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:GB-CG-01*/        2019-07-01 14:00:07-04:00 DST
+O&M    #775192
+%%/*1879154306 MEID=060 MML Session=1562004007*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  14627
+   Using Bearers for 4G  =  35660
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NP-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:NP-CG-01*/        2019-07-01 14:00:07-04:00 DST
+O&M    #150189
+%%/*1879154305 MEID=060 MML Session=1562004007*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  22459
+   Using Bearers for 4G  =  72190
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CG License Utilization_20190702_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	NP-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:NP-CG-01*/        2019-07-02 14:00:07-04:00 DST
+O&M    #153317
+%%/*1879154521 MEID=060 MML Session=1562090407*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  23155
+   Using Bearers for 4G  =  71881
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GB-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:GB-CG-01*/        2019-07-02 14:00:07-04:00 DST
+O&M    #778321
+%%/*1879154522 MEID=060 MML Session=1562090407*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  15027
+   Using Bearers for 4G  =  35434
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CG License Utilization_20190703_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	GB-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:GB-CG-01*/        2019-07-03 14:00:07-04:00 DST
+O&M    #781446
+%%/*1879154854 MEID=060 MML Session=1562176807*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  14491
+   Using Bearers for 4G  =  34755
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NP-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:NP-CG-01*/        2019-07-03 14:00:07-04:00 DST
+O&M    #156442
+%%/*1879154853 MEID=060 MML Session=1562176807*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  22865
+   Using Bearers for 4G  =  72784
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CG License Utilization_20190704_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	GB-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:GB-CG-01*/        2019-07-04 14:00:07-04:00 DST
+O&M    #784572
+%%/*1879155404 MEID=060 MML Session=1562263207*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  12350
+   Using Bearers for 4G  =  34325
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NP-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:NP-CG-01*/        2019-07-04 14:00:07-04:00 DST
+O&M    #159568
+%%/*1879155403 MEID=060 MML Session=1562263207*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  21245
+   Using Bearers for 4G  =  73107
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CG License Utilization_20190705_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	NP-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:NP-CG-01*/        2019-07-05 14:00:07-04:00 DST
+O&M    #162693
+%%/*1879156225 MEID=060 MML Session=1562349607*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  22195
+   Using Bearers for 4G  =  73413
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GB-CG-01
+MML Command Report:
+	+++    CG/*MEID:60 MENAME:GB-CG-01*/        2019-07-05 14:00:07-04:00 DST
+O&M    #787697
+%%/*1879156226 MEID=060 MML Session=1562349607*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+Module group identifier  =  iGWB_1st
+    Using PDPs for 2/3G  =  13238
+   Using Bearers for 4G  =  34425
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0

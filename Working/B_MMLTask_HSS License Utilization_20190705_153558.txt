@@ -1,0 +1,305 @@
+
+++++++ File Name: MMLTask_HSS License Utilization_20190701_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBHSS
+MML Command Report:
+	+++    HSS9860/*MEID:252 MENAME:GBHSS*/        2019-07-01 14:00:07-04:00 DST
+O&M    #642760
+%%/*1879154294 MEID=252 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5DSRUSR01  Number of Geographic Node Redundancy                                      Resource  106000                58677        55                45             
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58677        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58677        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58677        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58677        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58677        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58677        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58677        55                45             
+(Number of results = 8)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NPHSS
+MML Command Report:
+	+++    HSS9860/*MEID:251 MENAME:NPHSS*/        2019-07-01 14:00:07-04:00 DST
+O&M    #659538
+%%/*1879154293 MEID=251 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58677        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58677        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58677        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58677        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58677        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58677        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58677        55                45             
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_HSS License Utilization_20190702_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBHSS
+MML Command Report:
+	+++    HSS9860/*MEID:252 MENAME:GBHSS*/        2019-07-02 14:00:07-04:00 DST
+O&M    #645711
+%%/*1879154520 MEID=252 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5DSRUSR01  Number of Geographic Node Redundancy                                      Resource  106000                58651        55                45             
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58651        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58651        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58651        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58651        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58651        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58651        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58651        55                45             
+(Number of results = 8)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NPHSS
+MML Command Report:
+	+++    HSS9860/*MEID:251 MENAME:NPHSS*/        2019-07-02 14:00:07-04:00 DST
+O&M    #662548
+%%/*1879154519 MEID=251 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58651        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58651        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58651        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58651        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58651        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58651        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58651        55                45             
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_HSS License Utilization_20190703_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBHSS
+MML Command Report:
+	+++    HSS9860/*MEID:252 MENAME:GBHSS*/        2019-07-03 14:00:07-04:00 DST
+O&M    #648660
+%%/*1879154844 MEID=252 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5DSRUSR01  Number of Geographic Node Redundancy                                      Resource  106000                58545        55                45             
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58545        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58545        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58545        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58545        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58545        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58545        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58545        55                45             
+(Number of results = 8)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NPHSS
+MML Command Report:
+	+++    HSS9860/*MEID:251 MENAME:NPHSS*/        2019-07-03 14:00:07-04:00 DST
+O&M    #665727
+%%/*1879154843 MEID=251 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58545        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58545        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58545        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58545        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58545        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58545        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58545        55                45             
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_HSS License Utilization_20190704_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	NPHSS
+MML Command Report:
+	+++    HSS9860/*MEID:251 MENAME:NPHSS*/        2019-07-04 14:00:07-04:00 DST
+O&M    #668675
+%%/*1879155381 MEID=251 MML Session=1562263206*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58513        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58513        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58513        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58513        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58513        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58513        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58513        55                45             
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBHSS
+MML Command Report:
+	+++    HSS9860/*MEID:252 MENAME:GBHSS*/        2019-07-04 14:00:07-04:00 DST
+O&M    #651608
+%%/*1879155382 MEID=252 MML Session=1562263206*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5DSRUSR01  Number of Geographic Node Redundancy                                      Resource  106000                58513        55                45             
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58513        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58513        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58513        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58513        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58513        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58513        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58513        55                45             
+(Number of results = 8)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_HSS License Utilization_20190705_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	NPHSS
+MML Command Report:
+	+++    HSS9860/*MEID:251 MENAME:NPHSS*/        2019-07-05 14:00:07-04:00 DST
+O&M    #671640
+%%/*1879156227 MEID=251 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58475        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58475        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58475        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58475        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58475        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58475        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58475        55                45             
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBHSS
+MML Command Report:
+	+++    HSS9860/*MEID:252 MENAME:GBHSS*/        2019-07-05 14:00:07-04:00 DST
+O&M    #654572
+%%/*1879156228 MEID=252 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                              Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)
+
+ LMI5DSRUSR01  Number of Geographic Node Redundancy                                      Resource  106000                58475        55                45             
+ LMI5EXPUSR01  Number of Subscribers Data Export to Text File                            Resource  106000                58475        55                45             
+ LMI5HSSFEU01  Number of HSS FE Subscribers                                              Resource  106000                58475        55                45             
+ LMI5HXSUSR01  Number of Subscribers HSS Supporting XML/SOAP interface for provisioning  Resource  106000                58475        55                45             
+ LMI5LTEUSR01  Support Basic Feature for VoLTE                                           Resource  106000                58475        55                45             
+ LMI5SDRUSR01  Number of Subscribers Supporting CSCF Data Backup                         Resource  106000                58475        55                45             
+ LMI5SSCUSR01  Supplementary service consistency between 2G/3G and LTE                   Resource  106000                58475        55                45             
+ LMI5TDMUSR01  Transparent Data Storage and Management(5KB/sub)                          Resource  106000                58475        55                45             
+(Number of results = 8)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0

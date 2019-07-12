@@ -1,0 +1,280 @@
+
+++++++ File Name: MMLTask_ENS License Utilization_20190701_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	NPENS
+MML Command Report:
+	+++    HSS9860/*MEID:131 MENAME:NPENS*/        2019-07-01 14:00:07-04:00 DST
+O&M    #659539
+%%/*1879154301 MEID=131 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBENS
+MML Command Report:
+	+++    HSS9860/*MEID:132 MENAME:GBENS*/        2019-07-01 14:00:07-04:00 DST
+O&M    #642761
+%%/*1879154302 MEID=132 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_ENS License Utilization_20190702_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	NPENS
+MML Command Report:
+	+++    HSS9860/*MEID:131 MENAME:NPENS*/        2019-07-02 14:00:08-04:00 DST
+O&M    #662550
+%%/*1879154537 MEID=131 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBENS
+MML Command Report:
+	+++    HSS9860/*MEID:132 MENAME:GBENS*/        2019-07-02 14:00:08-04:00 DST
+O&M    #645713
+%%/*1879154538 MEID=132 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_ENS License Utilization_20190703_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBENS
+MML Command Report:
+	+++    HSS9860/*MEID:132 MENAME:GBENS*/        2019-07-03 14:00:07-04:00 DST
+O&M    #648663
+%%/*1879154860 MEID=132 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NPENS
+MML Command Report:
+	+++    HSS9860/*MEID:131 MENAME:NPENS*/        2019-07-03 14:00:07-04:00 DST
+O&M    #665730
+%%/*1879154859 MEID=131 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_ENS License Utilization_20190704_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	NPENS
+MML Command Report:
+	+++    HSS9860/*MEID:131 MENAME:NPENS*/        2019-07-04 14:00:07-04:00 DST
+O&M    #668676
+%%/*1879155391 MEID=131 MML Session=1562263207*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBENS
+MML Command Report:
+	+++    HSS9860/*MEID:132 MENAME:GBENS*/        2019-07-04 14:00:07-04:00 DST
+O&M    #651609
+%%/*1879155392 MEID=132 MML Session=1562263207*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_ENS License Utilization_20190705_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	NPENS
+MML Command Report:
+	+++    HSS9860/*MEID:131 MENAME:NPENS*/        2019-07-05 14:00:07-04:00 DST
+O&M    #671641
+%%/*1879156239 MEID=131 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBENS
+MML Command Report:
+	+++    HSS9860/*MEID:132 MENAME:GBENS*/        2019-07-05 14:00:07-04:00 DST
+O&M    #654573
+%%/*1879156240 MEID=132 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+          License ID  =  LKE9MNPDB01
+        License Item  =  Support NPDB Query
+                Type  =  Resource
+Authorization-values  =  53000
+         Real-values  =  47171
+    Usage-percent(%)  =  89
+     Left-percent(%)  =  11
+(Number of results = 1)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0

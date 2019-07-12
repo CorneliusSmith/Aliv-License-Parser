@@ -1,0 +1,300 @@
+
+++++++ File Name: MMLTask_CCF License Utilization_20190701_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBCCF02
+MML Command Report:
+	+++    CCF/*MEID:102 MENAME:GBCCF02*/        2019-07-01 14:00:07-04:00 DST
+O&M    #74299
+%%/*1879154304 MEID=102 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    0            0               100            
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    0            0               100            
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	CCF0
+MML Command Report:
+	+++    CCF/*MEID:101 MENAME:CCF0*/        2019-07-01 14:00:07-04:00 DST
+O&M    #74448
+%%/*1879154303 MEID=101 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    3            10              90             
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    3            10              90             
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CCF License Utilization_20190702_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBCCF02
+MML Command Report:
+	+++    CCF/*MEID:102 MENAME:GBCCF02*/        2019-07-02 14:00:07-04:00 DST
+O&M    #77216
+%%/*1879154524 MEID=102 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    0            0               100            
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    0            0               100            
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	CCF0
+MML Command Report:
+	+++    CCF/*MEID:101 MENAME:CCF0*/        2019-07-02 14:00:07-04:00 DST
+O&M    #77367
+%%/*1879154523 MEID=101 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    3            10              90             
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    3            10              90             
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CCF License Utilization_20190703_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBCCF02
+MML Command Report:
+	+++    CCF/*MEID:102 MENAME:GBCCF02*/        2019-07-03 14:00:07-04:00 DST
+O&M    #80130
+%%/*1879154838 MEID=102 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    0            0               100            
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    0            0               100            
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	CCF0
+MML Command Report:
+	+++    CCF/*MEID:101 MENAME:CCF0*/        2019-07-03 14:00:07-04:00 DST
+O&M    #80283
+%%/*1879154837 MEID=101 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    3            10              90             
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    3            10              90             
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CCF License Utilization_20190704_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBCCF02
+MML Command Report:
+	+++    CCF/*MEID:102 MENAME:GBCCF02*/        2019-07-04 14:00:07-04:00 DST
+O&M    #83047
+%%/*1879155388 MEID=102 MML Session=1562263207*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    0            0               100            
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    0            0               100            
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	CCF0
+MML Command Report:
+	+++    CCF/*MEID:101 MENAME:CCF0*/        2019-07-04 14:00:07-04:00 DST
+O&M    #83202
+%%/*1879155387 MEID=101 MML Session=1562263207*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    3            10              90             
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    3            10              90             
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CCF License Utilization_20190705_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBCCF02
+MML Command Report:
+	+++    CCF/*MEID:102 MENAME:GBCCF02*/        2019-07-05 14:00:08-04:00 DST
+O&M    #85965
+%%/*1879156224 MEID=102 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    0            0               100            
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    0            0               100            
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	CCF0
+MML Command Report:
+	+++    CCF/*MEID:101 MENAME:CCF0*/        2019-07-05 14:00:08-04:00 DST
+O&M    #86120
+%%/*1879156223 MEID=101 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID    License Item                                                                    Type      Authorization-values  Real-values  Use-percent(%)  Left-percent(%)
+
+ LMI2MAXCDR01  Throughput,per 10K CDRs/HOUR                                                    Resource  30                    3            10              90             
+ LMI3CDRB01    Number of automatic backups for original and final CDRs, per 10K CDRs/HOUR      Resource  0                     0            0               0              
+ LMI3CDRC01    Number of correlated CDRs, per 10k CDRs/HOUR                                    Resource  0                     0            0               0              
+ LMI3CDRD01    Number of sorted CDRs, per 10K CDRs/HOUR                                        Resource  30                    3            10              90             
+ LMI3FTP01     Number of CDRs transferred to the billing center using FTP, per 10K CDRs/HOUR   Resource  0                     0            0               0              
+ LMI3SFTP01    Number of CDRs obtained by the billing center using SFTP, per 10K CDRs/HOUR     Resource  0                     0            0               0              
+ LMI3SFTP02    Number of CDRs transferred to the billing center using SFTP, per 10K CDRs/HOUR  Resource  0                     0            0               0              
+(Number of results = 7)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0

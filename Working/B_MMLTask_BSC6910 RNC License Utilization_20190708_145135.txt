@@ -1,0 +1,1085 @@
+
+++++++ File Name: MMLTask_BSC6910 RNC License Utilization_20190701_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICUSAGE:;
+NE Name:
+	NP-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-01 14:00:07 DST
+O&M    #2233183
+%%/*1879154295 MML Session=1562004007*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       1506  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    436.096  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    375.239  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        800.000    59.068  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     10000      3443  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      32         8  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          32         4  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            120        88  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    375.239  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       1506  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    436.096  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        2          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            105040     0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           32000.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       1506  
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    436.096  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-01 14:00:07 DST
+O&M    #2233183
+%%/*1879154295 MML Session=1562004007*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    375.239  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    375.239  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    375.239  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    375.239  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           800.000    59.068  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          800.000    59.068  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    59.068  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    375.239  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    375.239  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    375.239  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        800.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    436.096  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       1506  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    375.239  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    375.239  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    436.096  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       1506  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    436.096  
+ 0                  NEWCO          LQW1IUFLEX02RESE    Iu Flex Load Distribution Management (per Erl)                     1194       0  
+ 0                  NEWCO          LQW1IUFLEX02RESM    Iu Flex Load Distribution Management (per Mbps)                    400.000    0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-01 14:00:07 DST
+O&M    #2233183
+%%/*1879154295 MML Session=1562004007*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       1506  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    436.096  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    436.096  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    375.239  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           1          1  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         800.000    59.068  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       1506  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    436.096  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    436.096  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       1506  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    436.096  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       1506  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    436.096  
+(Number of results = 57)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+NE Name:
+	GB-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-01 14:00:07 DST
+O&M    #1989239
+%%/*1879154296 MML Session=1562004007*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       543  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    639.647  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    579.947  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        400.000    59.501  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     20000      1880  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      16         12  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          16         2  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            186        159  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    579.947  
+ 0                  NEWCO          LQW1DSSPI01RES      Differentiated Service Based on SPI Weight (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       543  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    639.647  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        1          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            95849      0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           29200.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       543  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-01 14:00:07 DST
+O&M    #1989239
+%%/*1879154296 MML Session=1562004007*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    639.647  
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    579.947  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    579.947  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    579.947  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    579.947  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           400.000    59.501  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          400.000    59.501  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    59.501  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    579.947  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    579.947  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    579.947  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        400.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    639.647  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       543  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    579.947  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    579.947  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    639.647  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       543  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    639.647  
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-01 14:00:07 DST
+O&M    #1989239
+%%/*1879154296 MML Session=1562004007*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       543  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    639.647  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    639.647  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Erl)                               3000       0  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Mbps)                              800.000    0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    579.947  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           0          0  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         400.000    59.501  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       543  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    639.647  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    639.647  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       543  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    639.647  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       543  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    639.647  
+(Number of results = 58)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_BSC6910 RNC License Utilization_20190702_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICUSAGE:;
+NE Name:
+	GB-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-02 14:00:07 DST
+O&M    #1991576
+%%/*1879154536 MML Session=1562090407*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       553  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    795.950  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    730.037  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        400.000    65.943  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     20000      1394  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      16         15  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          16         1  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            186        159  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    730.037  
+ 0                  NEWCO          LQW1DSSPI01RES      Differentiated Service Based on SPI Weight (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       553  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    795.950  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        1          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            95849      0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           29200.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       553  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-02 14:00:07 DST
+O&M    #1991576
+%%/*1879154536 MML Session=1562090407*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    795.950  
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    730.037  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    730.037  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    730.037  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    730.037  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           400.000    65.943  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          400.000    65.943  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    65.943  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    730.037  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    730.037  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    730.037  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        400.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    795.950  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       553  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    730.037  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    730.037  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    795.950  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       553  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    795.950  
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-02 14:00:07 DST
+O&M    #1991576
+%%/*1879154536 MML Session=1562090407*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       553  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    795.950  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    795.950  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Erl)                               3000       0  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Mbps)                              800.000    0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    730.037  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           0          0  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         400.000    65.943  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       553  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    795.950  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    795.950  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       553  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    795.950  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       553  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    795.950  
+(Number of results = 58)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+NE Name:
+	NP-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-02 14:00:07 DST
+O&M    #2235551
+%%/*1879154535 MML Session=1562090407*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       1734  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    645.074  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    580.610  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        800.000    59.360  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     10000      2487  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      32         13  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          32         3  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            120        88  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    580.610  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       1734  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    645.074  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        2          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            105040     0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           32000.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       1734  
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    645.074  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-02 14:00:07 DST
+O&M    #2235551
+%%/*1879154535 MML Session=1562090407*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    580.610  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    580.610  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    580.610  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    580.610  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           800.000    59.360  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          800.000    59.360  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    59.360  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    580.610  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    580.610  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    580.610  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        800.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    645.074  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       1734  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    580.610  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    580.610  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    645.074  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       1734  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    645.074  
+ 0                  NEWCO          LQW1IUFLEX02RESE    Iu Flex Load Distribution Management (per Erl)                     1194       0  
+ 0                  NEWCO          LQW1IUFLEX02RESM    Iu Flex Load Distribution Management (per Mbps)                    400.000    0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-02 14:00:07 DST
+O&M    #2235551
+%%/*1879154535 MML Session=1562090407*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       1734  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    645.074  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    645.074  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    580.610  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           1          1  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         800.000    59.360  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       1734  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    645.074  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    645.074  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       1734  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    645.074  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       1734  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    645.074  
+(Number of results = 57)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_BSC6910 RNC License Utilization_20190703_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICUSAGE:;
+NE Name:
+	NP-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-03 14:00:07 DST
+O&M    #2237439
+%%/*1879154841 MML Session=1562176807*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       1543  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    202.095  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    172.616  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        800.000    31.762  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     10000      2313  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      32         4  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          32         2  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            120        88  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    172.616  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       1543  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    202.095  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        2          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            105040     0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           32000.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       1543  
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    202.095  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-03 14:00:07 DST
+O&M    #2237439
+%%/*1879154841 MML Session=1562176807*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    172.616  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    172.616  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    172.616  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    172.616  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           800.000    31.762  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          800.000    31.762  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    31.762  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    172.616  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    172.616  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    172.616  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        800.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    202.095  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       1543  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    172.616  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    172.616  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    202.095  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       1543  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    202.095  
+ 0                  NEWCO          LQW1IUFLEX02RESE    Iu Flex Load Distribution Management (per Erl)                     1194       0  
+ 0                  NEWCO          LQW1IUFLEX02RESM    Iu Flex Load Distribution Management (per Mbps)                    400.000    0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-03 14:00:07 DST
+O&M    #2237439
+%%/*1879154841 MML Session=1562176807*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       1543  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    202.095  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    202.095  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    172.616  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           1          1  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         800.000    31.762  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       1543  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    202.095  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    202.095  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       1543  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    202.095  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       1543  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    202.095  
+(Number of results = 57)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+NE Name:
+	GB-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-03 14:00:07 DST
+O&M    #1993838
+%%/*1879154842 MML Session=1562176807*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       571  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    252.418  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    233.114  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        400.000    31.548  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     20000      1091  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      16         5  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          16         1  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            186        159  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    233.114  
+ 0                  NEWCO          LQW1DSSPI01RES      Differentiated Service Based on SPI Weight (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       571  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    252.418  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        1          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            95849      0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           29200.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       571  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-03 14:00:07 DST
+O&M    #1993838
+%%/*1879154842 MML Session=1562176807*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    252.418  
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    233.114  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    233.114  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    233.114  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    233.114  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           400.000    31.548  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          400.000    31.548  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    31.548  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    233.114  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    233.114  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    233.114  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        400.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    252.418  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       571  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    233.114  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    233.114  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    252.418  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       571  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    252.418  
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-03 14:00:07 DST
+O&M    #1993838
+%%/*1879154842 MML Session=1562176807*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       571  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    252.418  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    252.418  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Erl)                               3000       0  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Mbps)                              800.000    0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    233.114  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           0          0  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         400.000    31.548  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       571  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    252.418  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    252.418  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       571  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    252.418  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       571  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    252.418  
+(Number of results = 58)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_BSC6910 RNC License Utilization_20190704_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICUSAGE:;
+NE Name:
+	GB-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-04 14:00:08 DST
+O&M    #1996708
+%%/*1879155408 MML Session=1562263207*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       585  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    336.215  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    298.600  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        400.000    37.543  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     20000      1137  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      16         6  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          16         1  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            186        159  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    298.600  
+ 0                  NEWCO          LQW1DSSPI01RES      Differentiated Service Based on SPI Weight (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       585  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    336.215  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        1          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            95849      0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           29200.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       585  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-04 14:00:08 DST
+O&M    #1996708
+%%/*1879155408 MML Session=1562263207*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    336.215  
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    298.600  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    298.600  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    298.600  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    298.600  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           400.000    37.543  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          400.000    37.543  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    37.543  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    298.600  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    298.600  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    298.600  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        400.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    336.215  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       585  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    298.600  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    298.600  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    336.215  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       585  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    336.215  
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-04 14:00:08 DST
+O&M    #1996708
+%%/*1879155408 MML Session=1562263207*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       585  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    336.215  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    336.215  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Erl)                               3000       0  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Mbps)                              800.000    0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    298.600  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           0          0  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         400.000    37.543  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       585  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    336.215  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    336.215  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       585  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    336.215  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       585  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    336.215  
+(Number of results = 58)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+NE Name:
+	NP-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-04 14:00:07 DST
+O&M    #2240318
+%%/*1879155407 MML Session=1562263207*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       1483  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    195.411  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    166.571  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        800.000    42.656  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     10000      1937  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      32         4  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          32         2  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            120        88  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    166.571  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       1483  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    195.411  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        2          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            105040     0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           32000.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       1483  
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    195.411  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-04 14:00:07 DST
+O&M    #2240318
+%%/*1879155407 MML Session=1562263207*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    166.571  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    166.571  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    166.571  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    166.571  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           800.000    42.656  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          800.000    42.656  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    42.656  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    166.571  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    166.571  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    166.571  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        800.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    195.411  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       1483  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    166.571  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    166.571  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    195.411  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       1483  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    195.411  
+ 0                  NEWCO          LQW1IUFLEX02RESE    Iu Flex Load Distribution Management (per Erl)                     1194       0  
+ 0                  NEWCO          LQW1IUFLEX02RESM    Iu Flex Load Distribution Management (per Mbps)                    400.000    0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-04 14:00:07 DST
+O&M    #2240318
+%%/*1879155407 MML Session=1562263207*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       1483  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    195.411  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    195.411  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    166.571  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           1          1  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         800.000    42.656  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       1483  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    195.411  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    195.411  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       1483  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    195.411  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       1483  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    195.411  
+(Number of results = 57)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_BSC6910 RNC License Utilization_20190705_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICUSAGE:;
+NE Name:
+	NP-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-05 14:00:07 DST
+O&M    #2242860
+%%/*1879156237 MML Session=1562349607*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       1476  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    183.450  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    163.010  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        800.000    33.824  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     10000      1976  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      32         4  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          32         2  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            120        88  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    163.010  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       1476  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    183.450  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        2          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            105040     0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           32000.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       1476  
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    183.450  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-05 14:00:07 DST
+O&M    #2242860
+%%/*1879156237 MML Session=1562349607*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    163.010  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    163.010  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    163.010  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    163.010  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           800.000    33.824  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          800.000    33.824  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    33.824  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    163.010  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    163.010  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    163.010  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        800.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    183.450  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       1476  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    163.010  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    163.010  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    183.450  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       1476  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    183.450  
+ 0                  NEWCO          LQW1IUFLEX02RESE    Iu Flex Load Distribution Management (per Erl)                     1194       0  
+ 0                  NEWCO          LQW1IUFLEX02RESM    Iu Flex Load Distribution Management (per Mbps)                    400.000    0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-05 14:00:07 DST
+O&M    #2242860
+%%/*1879156237 MML Session=1562349607*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=DBD02C36F80EA0F6BC96C666DCC359E8B8D08A79)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       1476  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    183.450  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    183.450  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    163.010  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           1          1  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         800.000    33.824  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       1476  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    183.450  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    183.450  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       1476  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    183.450  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       1476  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    183.450  
+(Number of results = 57)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0
+NE Name:
+	GB-RNC-01
+MML Command Report:
+	+++    HWBSC6910        2019-07-05 14:00:07 DST
+O&M    #1999165
+%%/*1879156238 MML Session=1562349607*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1CS01            Voice Erlang-Erlang                                                3000       557  
+ 0                  NEWCO          LQW1PO01            PS throughput only (per Mbps)                                      800.000    264.831  
+ 0                  NEWCO          LQW1HSDPAT01        HSDPA Throughput (per Mbps)                                        800.000    226.975  
+ 0                  NEWCO          LQW1HSUPAT01        HSUPA Throughput (per Mbps)                                        400.000    41.182  
+ 0                  NEWCO          LQW1FDER01          Fast Dormancy Enhancement (per PS Active User)                     20000      1074  
+ 0                  NEWCO          LQW1HWCL03          RNC Throughput Hardware Capacity (per 50Mbps)                      16         5  
+ 0                  NEWCO          LQW1HWCL04          RNC Active User Hardware Capacity (per 1000 active users)          16         1  
+ 0                  NEWCO          LQW1RPNRRES         RNC in Pool Node Redundancy (per NodeB)                            186        159  
+ 0                  NEWCO          LQW1DLE01RES        Downlink Enhanced L2 (per Mbps)                                    800.000    226.975  
+ 0                  NEWCO          LQW1DSSPI01RES      Differentiated Service Based on SPI Weight (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1SLURESE         SRVCC from LTE to UMTS with PS Handover (per Erl)                  1313       0  
+ 0                  NEWCO          LQW1SLURESM         SRVCC from LTE to UMTS with PS Handover (per Mbps)                 400.000    0  
+ 0                  NEWCO          LQW1LPRULRES        Load based PS Redirection from UMTS to LTE (per Mbps)              800.000    0  
+ 0                  NEWCO          LQW1CPRULRES        Coverage based PS Redirection from UMTS to LTE (per Mbps)          800.000    0  
+ 0                  NEWCO          LQW1FRULRESE        Fast Return from UMTS to LTE (per Erl)                             3000       557  
+ 0                  NEWCO          LQW1FRULRESM        Fast Return from UMTS to LTE (per Mbps)                            800.000    264.831  
+ 0                  NEWCO          LQW1RPMLRRES        RNC in Pool Multiple Logical RNCs (per RNC)                        1          1  
+ 0                  NEWCO          LQW1SMCSRESE        Camp & Handover Based on SPID (per Erl)                            95849      0  
+ 0                  NEWCO          LQW1SMCSRESM        Camp & Handover Based on SPID (per Mbps)                           29200.000  0  
+ 0                  NEWCO          LQW1MRAB01RESE      Multiple RAB Package (two or more PS RABs) (per Erl)               3000       557  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-05 14:00:07 DST
+O&M    #1999165
+%%/*1879156238 MML Session=1562349607*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1MRAB01RESM      Multiple RAB Package (two or more PS RABs) (per Mbps)              600.000    264.831  
+ 0                  NEWCO          LQW1HSDPA02RES      HSDPA 3.6Mbps per User (per Mbps)                                  800.000    226.975  
+ 0                  NEWCO          LQW1HSDPA03RES      HSDPA 7.2Mbps per User (per Mbps)                                  800.000    226.975  
+ 0                  NEWCO          LQW1HSDPA10RES      HSDPA Enhanced Package (per Mbps)                                  800.000    226.975  
+ 0                  NEWCO          LQW1HSDPA12RES      HSDPA 13.976Mbps per User (per Mbps)                               800.000    226.975  
+ 0                  NEWCO          LQW1HSUPA03RES      HSUPA Phase 2 (per Mbps)                                           400.000    41.182  
+ 0                  NEWCO          LQW1HSUPA06RES      SRB over HSUPA (per Mbps)                                          400.000    41.182  
+ 0                  NEWCO          LQW1THOBC01RES      TTI Switch for BE Services Based on Coverage (per Mbps)            800.000    41.182  
+ 0                  NEWCO          LQW1EHSPA01RES      HSPA+ Downlink 28Mbps per User (per Mbps)                          600.000    226.975  
+ 0                  NEWCO          LQW1EHSPA02RES      HSPA+ Downlink 21Mbps per User (per Mbps)                          800.000    226.975  
+ 0                  NEWCO          LQW1EHSPA03RES      HSPA+ Downlink 42Mbps per User (per Mbps)                          800.000    226.975  
+ 0                  NEWCO          LQW1HU11MU01RES     HSPA+ Uplink 11.5Mbit/s per User (per Mbps)                        400.000    0  
+ 0                  NEWCO          LQW1PSRUL01RES      Service-Based PS Service Redirection from UMTS to LTE (per Mbps)   800.000    264.831  
+ 0                  NEWCO          LQW1WBAMR01RES      AMR-WB (Adaptive Multi Rate Wide Band) (per Erl)                   3000       557  
+ 0                  NEWCO          LQW1HSDPA05RES      32 HSDPA Users per Cell (per Mbps)                                 800.000    226.975  
+ 0                  NEWCO          LQW1HSDPA06RES      64 HSDPA Users per Cell (per Mbps)                                 800.000    226.975  
+ 0                  NEWCO          LQW1ULM01RES        Mobility Between UMTS and LTE Phase 1 (per Mbps)                   800.000    264.831  
+ 0                  NEWCO          LQW1IUFLEX01RESE    Iu Flex (per Erl)                                                  3000       557  
+ 0                  NEWCO          LQW1IUFLEX01RESM    Iu Flex (per Mbps)                                                 800.000    264.831  
+ 0                  NEWCO          LQW1AMRC01          AMR voice coding rate control (per Erl)                            3000       0  
+
+To be continued...
+
+---    END
++++    HWBSC6910        2019-07-05 14:00:07 DST
+O&M    #1999165
+%%/*1879156238 MML Session=1562349607*/DSP LICUSAGE:;%%
+RETCODE = 0  Execution succeeded.
+
+The Number of NE License(ESN=A82A38FBE67F6CCC4C2DAEE5CCDCAA6CEE4700B6)
+----------------------------------------------------------------------
+ Cn Operator Index  Operator Name  License Identifier  License Item                                                       Allocated  Usage  
+
+ 0                  NEWCO          LQW1TFOTRF01        TFO/TrFO (per Erl)                                                 3000       0  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Erl)                                              3000       557  
+ 0                  NEWCO          LQW1CIDLCS01        Cell ID LCS (per Mbps)                                             800.000    264.831  
+ 0                  NEWCO          LQW1RABDAC01        RAB Downsizing at Admission Control (per Mbps)                     800.000    264.831  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Erl)                               3000       0  
+ 0                  NEWCO          LQW1LOHO01          Inter system Load Handover (per Mbps)                              800.000    0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Erl)                                     3000       0  
+ 0                  NEWCO          LQW1LCSCZ01         LCS Classified Zones (per Mbps)                                    800.000    0  
+ 0                  NEWCO          LQW1HSDPA01         High Speed Downlink Packet Access (per Mbps)                       800.000    226.975  
+ 0                  NEWCO          LQW1SC01            Satellite Communication in Iub Interface                           0          0  
+ 0                  NEWCO          LQW1HSUPA01         High Speed Uplink Packet Access (per Mbps)                         400.000    41.182  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Erl)                            3000       557  
+ 0                  NEWCO          LQW1HHO01           Inter frequency hard handover (per Mbps)                           800.000    264.831  
+ 0                  NEWCO          LQW1OT01            One Tunnel (per Mbps)                                              800.000    264.831  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Erl)      3000       557  
+ 0                  NEWCO          LQW1IUBTBDLB        Iub IP Transmission Based on Dynamic Load Balancing (per Mbps)     800.000    264.831  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Erl)   3000       557  
+ 0                  NEWCO          LQW1IUIURTBDLB      Iu/Iur IP Transmission Based on Dynamic Load Balancing (per Mbps)  800.000    264.831  
+(Number of results = 58)
+
+3 reports in total
+
+---    END
+
+MML Command Result:
+	Execution succeeded.
+MML Command Return Code:
+	0

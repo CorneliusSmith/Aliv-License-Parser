@@ -1,0 +1,320 @@
+
+++++++ File Name: MMLTask_USN License Utilizations_20190701_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	NP-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:NP-USN-01*/        2019-07-01 14:00:07-04:00 DST
+O&M    #150188
+%%/*1879154297 MEID=008 MML Session=1562004007*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   35000           6343            18%   
+ Maximum Number of 3G Active PDPs                   27000           4204            15%   
+ Maximum Number of 4G Subscribers                   93000           60529           65%   
+ Maximum Number of 4G Bearer Number                 140000          73040           52%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  287             1               0%    
+ VoLTE Entry Feature                                93000           12080           12%   
+ VIP Voice VoLTE                                    93000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GB-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:GB-USN-01*/        2019-07-01 14:00:07-04:00 DST
+O&M    #775191
+%%/*1879154298 MEID=008 MML Session=1562004007*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   17000           6802            40%   
+ Maximum Number of 3G Active PDPs                   13000           4322            33%   
+ Maximum Number of 4G Subscribers                   45000           36513           81%   
+ Maximum Number of 4G Bearer Number                 68000           46917           68%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  147             0               0%    
+ VoLTE Entry Feature                                45000           10346           22%   
+ VIP Voice VoLTE                                    45000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_USN License Utilizations_20190702_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	NP-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:NP-USN-01*/        2019-07-02 14:00:07-04:00 DST
+O&M    #153316
+%%/*1879154513 MEID=008 MML Session=1562090407*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   35000           6624            18%   
+ Maximum Number of 3G Active PDPs                   27000           4523            16%   
+ Maximum Number of 4G Subscribers                   93000           59160           63%   
+ Maximum Number of 4G Bearer Number                 140000          71740           51%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  287             0               0%    
+ VoLTE Entry Feature                                93000           11853           12%   
+ VIP Voice VoLTE                                    93000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GB-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:GB-USN-01*/        2019-07-02 14:00:07-04:00 DST
+O&M    #778320
+%%/*1879154514 MEID=008 MML Session=1562090407*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   17000           6985            41%   
+ Maximum Number of 3G Active PDPs                   13000           4476            34%   
+ Maximum Number of 4G Subscribers                   45000           36842           81%   
+ Maximum Number of 4G Bearer Number                 68000           47391           69%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  147             0               0%    
+ VoLTE Entry Feature                                45000           10244           22%   
+ VIP Voice VoLTE                                    45000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_USN License Utilizations_20190703_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	GB-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:GB-USN-01*/        2019-07-03 14:00:07-04:00 DST
+O&M    #781445
+%%/*1879154836 MEID=008 MML Session=1562176807*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   17000           6725            39%   
+ Maximum Number of 3G Active PDPs                   13000           4289            32%   
+ Maximum Number of 4G Subscribers                   45000           37354           83%   
+ Maximum Number of 4G Bearer Number                 68000           48200           70%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  147             0               0%    
+ VoLTE Entry Feature                                45000           10365           23%   
+ VIP Voice VoLTE                                    45000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	NP-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:NP-USN-01*/        2019-07-03 14:00:07-04:00 DST
+O&M    #156441
+%%/*1879154835 MEID=008 MML Session=1562176807*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   35000           6406            18%   
+ Maximum Number of 3G Active PDPs                   27000           4208            15%   
+ Maximum Number of 4G Subscribers                   93000           59400           63%   
+ Maximum Number of 4G Bearer Number                 140000          72092           51%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  287             0               0%    
+ VoLTE Entry Feature                                93000           11869           12%   
+ VIP Voice VoLTE                                    93000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_USN License Utilizations_20190704_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	NP-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:NP-USN-01*/        2019-07-04 14:00:07-04:00 DST
+O&M    #159569
+%%/*1879155405 MEID=008 MML Session=1562263207*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   35000           6482            18%   
+ Maximum Number of 3G Active PDPs                   27000           4269            15%   
+ Maximum Number of 4G Subscribers                   93000           62177           66%   
+ Maximum Number of 4G Bearer Number                 140000          74140           52%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  287             0               0%    
+ VoLTE Entry Feature                                93000           11940           12%   
+ VIP Voice VoLTE                                    93000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GB-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:GB-USN-01*/        2019-07-04 14:00:07-04:00 DST
+O&M    #784573
+%%/*1879155406 MEID=008 MML Session=1562263207*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   17000           6688            39%   
+ Maximum Number of 3G Active PDPs                   13000           4278            32%   
+ Maximum Number of 4G Subscribers                   45000           34713           77%   
+ Maximum Number of 4G Bearer Number                 68000           44530           65%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  147             0               0%    
+ VoLTE Entry Feature                                45000           10238           22%   
+ VIP Voice VoLTE                                    45000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_USN License Utilizations_20190705_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICRES:;
+NE Name:
+	NP-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:NP-USN-01*/        2019-07-05 14:00:07-04:00 DST
+O&M    #162692
+%%/*1879156221 MEID=008 MML Session=1562349607*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   35000           6680            19%   
+ Maximum Number of 3G Active PDPs                   27000           4378            16%   
+ Maximum Number of 4G Subscribers                   93000           61340           65%   
+ Maximum Number of 4G Bearer Number                 140000          73908           52%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  287             0               0%    
+ VoLTE Entry Feature                                93000           11856           12%   
+ VIP Voice VoLTE                                    93000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GB-USN-01
+MML Command Report:
+	+++    USN/*MEID:8 MENAME:GB-USN-01*/        2019-07-05 14:00:07-04:00 DST
+O&M    #787696
+%%/*1879156222 MEID=008 MML Session=1562349607*/DSP LICRES:;%%
+RETCODE = 0  Operation succeeded
+
+The result is as follows:
+-------------------------
+ Resource Name                                      Total Resource  Used Resources  Usage 
+
+ Maximum Number of 2.5G Subscribers                 100             0               0%    
+ Maximum Number of 2.5G Active PDPs                 100             0               0%    
+ Maximum Number of 3G Subscribers                   17000           6587            38%   
+ Maximum Number of 3G Active PDPs                   13000           4189            32%   
+ Maximum Number of 4G Subscribers                   45000           35589           79%   
+ Maximum Number of 4G Bearer Number                 68000           46112           67%   
+ Maximum Transmit Capability of User Plane(Mbit/s)  147             0               0%    
+ VoLTE Entry Feature                                45000           10280           22%   
+ VIP Voice VoLTE                                    45000           0               0%    
+(Number of results = 9)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0

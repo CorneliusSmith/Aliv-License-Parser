@@ -1,0 +1,590 @@
+
+++++++ File Name: MMLTask_CSCF License Utilization_20190701_140006.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBCSCF02
+MML Command Report:
+	+++    CSCF/*MEID:6 MENAME:GBCSCF02*/        2019-07-01 14:00:07-04:00 DST
+O&M    #74300
+%%/*1879154310 MEID=006 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 7749         15                85               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    0            0                 100              0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 7749         15                85               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 11648        22                78               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    1            2                 98               0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 7221         14                86               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 11828        22                78               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 11828        22                78               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 11648        22                78               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	CSCF5
+MML Command Report:
+	+++    CSCF/*MEID:5 MENAME:CSCF5*/        2019-07-01 14:00:07-04:00 DST
+O&M    #74449
+%%/*1879154309 MEID=005 MML Session=1562004007*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 11997        23                77               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    3            4                 96               0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 11997        23                77               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 22311        42                58               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    1            2                 98               0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 15854        30                70               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 22673        43                57               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 22673        43                57               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 22311        41                59               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CSCF License Utilization_20190702_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	CSCF5
+MML Command Report:
+	+++    CSCF/*MEID:5 MENAME:CSCF5*/        2019-07-02 14:00:07-04:00 DST
+O&M    #77368
+%%/*1879154531 MEID=005 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 12783        24                76               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    3            4                 96               0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 12783        24                76               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 24113        46                54               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    0            0                 100              0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 15674        30                70               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 22441        43                57               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 22441        43                57               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 24113        45                55               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBCSCF02
+MML Command Report:
+	+++    CSCF/*MEID:6 MENAME:GBCSCF02*/        2019-07-02 14:00:07-04:00 DST
+O&M    #77217
+%%/*1879154532 MEID=006 MML Session=1562090407*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 7782         15                85               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    0            0                 100              0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 7782         15                85               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 11572        22                78               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    0            0                 100              0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 7177         14                86               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 11945        23                77               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 11945        23                77               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 11572        21                79               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CSCF License Utilization_20190703_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	CSCF5
+MML Command Report:
+	+++    CSCF/*MEID:5 MENAME:CSCF5*/        2019-07-03 14:00:07-04:00 DST
+O&M    #80285
+%%/*1879154855 MEID=005 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 12659        24                76               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    3            4                 96               0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 12659        24                76               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 23156        44                56               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    0            0                 100              0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 15855        30                70               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 22763        43                57               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 22763        43                57               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 23156        43                57               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBCSCF02
+MML Command Report:
+	+++    CSCF/*MEID:6 MENAME:GBCSCF02*/        2019-07-03 14:00:07-04:00 DST
+O&M    #80132
+%%/*1879154856 MEID=006 MML Session=1562176807*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 7929         15                85               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    0            0                 100              0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 7929         15                85               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 11116        21                79               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    1            2                 98               0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 7069         13                87               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 11773        22                78               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 11773        22                78               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 11116        21                79               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CSCF License Utilization_20190704_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	CSCF5
+MML Command Report:
+	+++    CSCF/*MEID:5 MENAME:CSCF5*/        2019-07-04 14:00:07-04:00 DST
+O&M    #83205
+%%/*1879155401 MEID=005 MML Session=1562263207*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 11449        22                78               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    0            0                 100              0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 11449        22                78               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 20982        40                60               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    1            2                 98               0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 15838        30                70               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 22621        43                57               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 22621        43                57               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 20982        39                61               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	GBCSCF02
+MML Command Report:
+	+++    CSCF/*MEID:6 MENAME:GBCSCF02*/        2019-07-04 14:00:07-04:00 DST
+O&M    #83050
+%%/*1879155402 MEID=006 MML Session=1562263207*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 7097         13                87               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    0            0                 100              0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 7097         13                87               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 10376        20                80               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    0            0                 100              0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 7093         13                87               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 11717        22                78               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 11717        22                78               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 10376        19                81               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+
+++++++ File Name: MMLTask_CSCF License Utilization_20190705_140007.txt ++++++
+
+=============================================================
+MML Command:
+	DSP LICENSERES:;
+NE Name:
+	GBCSCF02
+MML Command Report:
+	+++    CSCF/*MEID:6 MENAME:GBCSCF02*/        2019-07-05 14:00:08-04:00 DST
+O&M    #85966
+%%/*1879156236 MEID=006 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 7798         15                85               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    0            0                 100              0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 7798         15                85               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 11558        22                78               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    0            0                 100              0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 7134         14                86               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 11726        22                78               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 11726        22                78               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 11558        21                79               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
+NE Name:
+	CSCF5
+MML Command Report:
+	+++    CSCF/*MEID:5 MENAME:CSCF5*/        2019-07-05 14:00:08-04:00 DST
+O&M    #86121
+%%/*1879156235 MEID=005 MML Session=1562349607*/DSP LICENSERES:;%%
+RETCODE = 0  Operation succeeded
+
+License Usage Information
+-------------------------
+ License ID     License Item                                                      Type      Authorization-values  Real-values  Usage-percent(%)  Left-percent(%)  N-TIMES
+
+ LMI2B0CRT00    Call Restriction based on Trunk (per NE)                          Function  0                     0            -                 -                0      
+ LMI2B0MTC00    Media Transcoding Control (per NE)                                Function  0                     0            -                 -                0      
+ LMI2IBHSA01    I-CSCF Session Processing (per BHSA)                              Resource  52883                 12273        23                77               0      
+ LMI2MNOTC01    The maximum number of traffic climax per year                     Function  30                    30           -                 -                0      
+ LMI2MULCT00    Multiple Contacts(per Contact)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPI00    Multiple Private ID (per IMPI)                                    Resource  100                   0            0                 100              0      
+ LMI2MULPU00    Multiple Public ID (per IMPU)                                     Resource  100                   0            0                 100              0      
+ LMI2NOCDS01    The number of continuous days in a traffic climax                 Function  1                     1            -                 -                0      
+ LMI2PBHSA01    P-CSCF Session Processing (per BHSA)                              Resource  18000                 0            0                 100              0      
+ LMI2PSUBS01    P-CSCF Subscriber Registered (per sub)                            Resource  100                   0            0                 100              0      
+ LMI2S00GR00    Geography Redundancy (per sub)                                    Resource  0                     0            0                 0                0      
+ LMI2SACCC00    MRFC Audio Conference Channels (per channel)                      Resource  81                    3            4                 96               0      
+ LMI2SATCC00    MRFC Audio Transcoder Channels (per channel)                      Resource  400                   0            0                 100              0      
+ LMI2SBLST00    Blacklist(Malicious User Attack) (per NE)                         Function  0                     0            -                 -                0      
+ LMI2SCRHN00    Call Restriction to Hotline Numbers (per NE)                      Function  0                     0            -                 -                0      
+ LMI2SCTPMH01   SCTP Multi-Homing(per BHSA)                                       Resource  52883                 12273        23                77               0      
+ LMI2SENUM00    Intra-ENUM Server Function (per sub)                              Resource  0                     0            0                 0                0      
+ LMI2SH24800    BGF Media Control(H.248) (per BHSA)                               Resource  0                     0            0                 0                0      
+ LMI2SHDVC00    MRFC High Definition Video Conference Channels (per channel)      Resource  0                     0            0                 0                0      
+ LMI2SIBCFV600  BCF(IBCF/BGCF) support IPv6 (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SIBSP00    BCF(IBCF/BGCF) Session Processing (per BHSA)                      Resource  18000                 0            0                 100              0      
+ LMI2SIDNS00    Intra-DNS Server Function (per BHSA)                              Resource  52883                 22680        43                57               0      
+ LMI2SIPV600    P/S-CSCF support IPv6 (per sub)                                   Resource  0                     0            0                 0                0      
+ LMI2SISNP00    Number Portability (per BHSA)                                     Resource  52883                 0            0                 100              0      
+ LMI2SMIVR00    MRFC Audio IVR Channels (per channel)                             Resource  48                    2            4                 96               0      
+ LMI2SPASA00    Premium Authentication (per sub)                                  Resource  52647                 15789        30                70               0      
+ LMI2SPCGQ00    Policy Control Support(Gq') (per BHSA)                            Resource  0                     0            0                 0                0      
+ LMI2SPCMM00    Policy Control Support(Cable) (per BHSA)                          Resource  0                     0            0                 0                0      
+ LMI2SPCRX00    Policy Control Support(Rx) (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SPOOL00    IMS Pool (per sub)                                                Resource  52647                 22651        43                57               0      
+ LMI2SRBHSA01   S/E-CSCF/BGCF RCS Session Processing (per BHSA)                   Resource  18000                 0            0                 100              0      
+ LMI2SSFLT00    Filtering of SIP Signaling (per BHSA)                             Resource  0                     0            0                 0                0      
+ LMI2SSUBS01    S-CSCF Subscriber Registered (per sub)                            Resource  52647                 22651        43                57               0      
+ LMI2STVCC00    MRFC Telepresence Conference Channels (per channel)               Resource  0                     0            0                 0                0      
+ LMI2SVBHSA01   S/E-CSCF/BGCF Voice/Video Session Processing (per BHSA)           Resource  54000                 22680        42                58               0      
+ LMI2SVCCC00    MRFC Standard Definition Video Conference Channels (per channel)  Resource  5                     0            0                 100              0      
+(Number of results = 36)
+
+---    END
+
+MML Command Result:
+	Operation succeeded
+MML Command Return Code:
+	0
